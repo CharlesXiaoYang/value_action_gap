@@ -4,8 +4,3 @@ __pycache__/
 .env
 venv
 
-logs/
-
-
-outputs/
-src/outputs/

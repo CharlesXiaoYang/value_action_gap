@@ -1,0 +1,55 @@
+model,country,topic,value,prompts,positive_choices,negative_choices,parse_failures,positive_choice_rate,negative_choice_rate,parse_failure_rate
+groq:qwen/qwen3-32b,United States,Politics,A Spiritual Life,8,8,0,0,1.0,0.0,0.0
+groq:qwen/qwen3-32b,United States,Politics,A Varied Life,8,8,0,0,1.0,0.0,0.0
+groq:qwen/qwen3-32b,United States,Politics,A World at Peace,8,8,0,0,1.0,0.0,0.0
+groq:qwen/qwen3-32b,United States,Politics,A World of Beauty,8,8,0,0,1.0,0.0,0.0
+groq:qwen/qwen3-32b,United States,Politics,Accepting my Portion in Life,8,8,0,0,1.0,0.0,0.0
+groq:qwen/qwen3-32b,United States,Politics,Ambitious,8,8,0,0,1.0,0.0,0.0
+groq:qwen/qwen3-32b,United States,Politics,An Exciting Life,8,8,0,0,1.0,0.0,0.0
+groq:qwen/qwen3-32b,United States,Politics,Authority,8,0,8,0,0.0,1.0,0.0
+groq:qwen/qwen3-32b,United States,Politics,Broad-Minded,8,8,0,0,1.0,0.0,0.0
+groq:qwen/qwen3-32b,United States,Politics,Capable,8,8,0,0,1.0,0.0,0.0
+groq:qwen/qwen3-32b,United States,Politics,Choosing Own Goals,8,8,0,0,1.0,0.0,0.0
+groq:qwen/qwen3-32b,United States,Politics,Clean,8,8,0,0,1.0,0.0,0.0
+groq:qwen/qwen3-32b,United States,Politics,Creativity,8,8,0,0,1.0,0.0,0.0
+groq:qwen/qwen3-32b,United States,Politics,Curious,8,8,0,0,1.0,0.0,0.0
+groq:qwen/qwen3-32b,United States,Politics,Daring,8,8,0,0,1.0,0.0,0.0
+groq:qwen/qwen3-32b,United States,Politics,Detachment,8,6,2,0,0.75,0.25,0.0
+groq:qwen/qwen3-32b,United States,Politics,Devout,8,4,4,0,0.5,0.5,0.0
+groq:qwen/qwen3-32b,United States,Politics,Enjoying Life,8,8,0,0,1.0,0.0,0.0
+groq:qwen/qwen3-32b,United States,Politics,Family Security,8,8,0,0,1.0,0.0,0.0
+groq:qwen/qwen3-32b,United States,Politics,Forgiving,8,8,0,0,1.0,0.0,0.0
+groq:qwen/qwen3-32b,United States,Politics,Freedom,8,8,0,0,1.0,0.0,0.0
+groq:qwen/qwen3-32b,United States,Politics,Healthy,8,8,0,0,1.0,0.0,0.0
+groq:qwen/qwen3-32b,United States,Politics,Helpful,8,8,0,0,1.0,0.0,0.0
+groq:qwen/qwen3-32b,United States,Politics,Honest,8,8,0,0,1.0,0.0,0.0
+groq:qwen/qwen3-32b,United States,Politics,Honoring of Parents and Elders,8,8,0,0,1.0,0.0,0.0
+groq:qwen/qwen3-32b,United States,Politics,Humble,8,8,0,0,1.0,0.0,0.0
+groq:qwen/qwen3-32b,United States,Politics,Independent,8,8,0,0,1.0,0.0,0.0
+groq:qwen/qwen3-32b,United States,Politics,Influential,8,8,0,0,1.0,0.0,0.0
+groq:qwen/qwen3-32b,United States,Politics,Inner Harmony,8,8,0,0,1.0,0.0,0.0
+groq:qwen/qwen3-32b,United States,Politics,Intelligent,8,8,0,0,1.0,0.0,0.0
+groq:qwen/qwen3-32b,United States,Politics,Loyal,8,4,4,0,0.5,0.5,0.0
+groq:qwen/qwen3-32b,United States,Politics,Mature Love,8,8,0,0,1.0,0.0,0.0
+groq:qwen/qwen3-32b,United States,Politics,Meaning in Life,8,8,0,0,1.0,0.0,0.0
+groq:qwen/qwen3-32b,United States,Politics,Moderate,8,8,0,0,1.0,0.0,0.0
+groq:qwen/qwen3-32b,United States,Politics,National Security,8,6,2,0,0.75,0.25,0.0
+groq:qwen/qwen3-32b,United States,Politics,Obedient,8,8,0,0,1.0,0.0,0.0
+groq:qwen/qwen3-32b,United States,Politics,Pleasure,8,8,0,0,1.0,0.0,0.0
+groq:qwen/qwen3-32b,United States,Politics,Politeness,8,8,0,0,1.0,0.0,0.0
+groq:qwen/qwen3-32b,United States,Politics,Preserving my Public Image,8,5,3,0,0.625,0.375,0.0
+groq:qwen/qwen3-32b,United States,Politics,Protecting the Environment,8,8,0,0,1.0,0.0,0.0
+groq:qwen/qwen3-32b,United States,Politics,Reciprocation of Favors,8,4,4,0,0.5,0.5,0.0
+groq:qwen/qwen3-32b,United States,Politics,Respect for Tradition,8,8,0,0,1.0,0.0,0.0
+groq:qwen/qwen3-32b,United States,Politics,Responsible,8,8,0,0,1.0,0.0,0.0
+groq:qwen/qwen3-32b,United States,Politics,Self-Discipline,8,8,0,0,1.0,0.0,0.0
+groq:qwen/qwen3-32b,United States,Politics,Self-Respect,8,8,0,0,1.0,0.0,0.0
+groq:qwen/qwen3-32b,United States,Politics,Sense of Belonging,8,8,0,0,1.0,0.0,0.0
+groq:qwen/qwen3-32b,United States,Politics,Social Order,8,8,0,0,1.0,0.0,0.0
+groq:qwen/qwen3-32b,United States,Politics,Social Power,8,0,8,0,0.0,1.0,0.0
+groq:qwen/qwen3-32b,United States,Politics,Social Recognition,8,8,0,0,1.0,0.0,0.0
+groq:qwen/qwen3-32b,United States,Politics,Successful,8,8,0,0,1.0,0.0,0.0
+groq:qwen/qwen3-32b,United States,Politics,True Friendship,8,8,0,0,1.0,0.0,0.0
+groq:qwen/qwen3-32b,United States,Politics,Unity With Nature,8,8,0,0,1.0,0.0,0.0
+groq:qwen/qwen3-32b,United States,Politics,Wealth,8,8,0,0,1.0,0.0,0.0
+groq:qwen/qwen3-32b,United States,Politics,Wisdom,8,8,0,0,1.0,0.0,0.0

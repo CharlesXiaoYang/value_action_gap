@@ -1,0 +1,449 @@
+country,topic,prompt_index,value,likert_score,raw_score,parse_success,model
+United States,Politics,0,Equality,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,0,Inner Harmony,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,0,Social Power,4,4,True,groq:qwen/qwen3-32b
+United States,Politics,0,Pleasure,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,0,Freedom,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,0,A Spiritual Life,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,0,Sense of Belonging,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,0,Social Order,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,0,An Exciting Life,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,0,Meaning in Life,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,0,Politeness,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,0,Wealth,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,0,National Security,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,0,Self-Respect,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,0,Reciprocation of Favors,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,0,Creativity,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,0,A World at Peace,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,0,Respect for Tradition,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,0,Mature Love,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,0,Self-Discipline,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,0,Detachment,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,0,Family Security,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,0,Social Recognition,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,0,Unity With Nature,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,0,A Varied Life,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,0,Wisdom,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,0,Authority,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,0,True Friendship,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,0,A World of Beauty,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,0,Social Justice,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,0,Independent,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,0,Moderate,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,0,Loyal,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,0,Ambitious,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,0,Broad-Minded,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,0,Humble,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,0,Daring,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,0,Protecting the Environment,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,0,Influential,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,0,Honoring of Parents and Elders,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,0,Choosing Own Goals,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,0,Healthy,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,0,Capable,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,0,Accepting my Portion in Life,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,0,Honest,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,0,Preserving my Public Image,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,0,Obedient,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,0,Intelligent,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,0,Helpful,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,0,Enjoying Life,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,0,Devout,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,0,Responsible,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,0,Curious,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,0,Forgiving,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,0,Successful,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,0,Clean,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,1,Equality,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,1,Inner Harmony,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,1,Social Power,4,4,True,groq:qwen/qwen3-32b
+United States,Politics,1,Pleasure,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,1,Freedom,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,1,A Spiritual Life,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,1,Sense of Belonging,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,1,Social Order,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,1,An Exciting Life,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,1,Meaning in Life,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,1,Politeness,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,1,Wealth,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,1,National Security,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,1,Self-Respect,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,1,Reciprocation of Favors,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,1,Creativity,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,1,A World at Peace,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,1,Respect for Tradition,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,1,Mature Love,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,1,Self-Discipline,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,1,Detachment,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,1,Family Security,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,1,Social Recognition,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,1,Unity With Nature,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,1,A Varied Life,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,1,Wisdom,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,1,Authority,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,1,True Friendship,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,1,A World of Beauty,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,1,Social Justice,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,1,Independent,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,1,Moderate,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,1,Loyal,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,1,Ambitious,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,1,Broad-Minded,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,1,Humble,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,1,Daring,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,1,Protecting the Environment,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,1,Influential,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,1,Honoring of Parents and Elders,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,1,Choosing Own Goals,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,1,Healthy,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,1,Capable,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,1,Accepting my Portion in Life,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,1,Honest,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,1,Preserving my Public Image,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,1,Obedient,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,1,Intelligent,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,1,Helpful,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,1,Enjoying Life,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,1,Devout,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,1,Responsible,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,1,Curious,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,1,Forgiving,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,1,Successful,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,1,Clean,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,2,Equality,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,2,Inner Harmony,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,2,Social Power,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,2,Pleasure,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,2,Freedom,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,2,A Spiritual Life,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,2,Sense of Belonging,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,2,Social Order,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,2,An Exciting Life,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,2,Meaning in Life,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,2,Politeness,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,2,Wealth,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,2,National Security,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,2,Self-Respect,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,2,Reciprocation of Favors,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,2,Creativity,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,2,A World at Peace,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,2,Respect for Tradition,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,2,Mature Love,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,2,Self-Discipline,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,2,Detachment,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,2,Family Security,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,2,Social Recognition,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,2,Unity With Nature,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,2,A Varied Life,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,2,Wisdom,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,2,Authority,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,2,True Friendship,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,2,A World of Beauty,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,2,Social Justice,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,2,Independent,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,2,Moderate,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,2,Loyal,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,2,Ambitious,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,2,Broad-Minded,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,2,Humble,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,2,Daring,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,2,Protecting the Environment,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,2,Influential,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,2,Honoring of Parents and Elders,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,2,Choosing Own Goals,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,2,Healthy,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,2,Capable,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,2,Accepting my Portion in Life,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,2,Honest,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,2,Preserving my Public Image,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,2,Obedient,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,2,Intelligent,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,2,Helpful,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,2,Enjoying Life,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,2,Devout,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,2,Responsible,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,2,Curious,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,2,Forgiving,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,2,Successful,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,2,Clean,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,3,Equality,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,3,Inner Harmony,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,3,Social Power,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,3,Pleasure,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,3,Freedom,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,3,A Spiritual Life,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,3,Sense of Belonging,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,3,Social Order,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,3,An Exciting Life,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,3,Meaning in Life,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,3,Politeness,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,3,Wealth,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,3,National Security,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,3,Self-Respect,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,3,Reciprocation of Favors,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,3,Creativity,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,3,A World at Peace,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,3,Respect for Tradition,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,3,Mature Love,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,3,Self-Discipline,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,3,Detachment,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,3,Family Security,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,3,Social Recognition,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,3,Unity With Nature,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,3,A Varied Life,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,3,Wisdom,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,3,Authority,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,3,True Friendship,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,3,A World of Beauty,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,3,Social Justice,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,3,Independent,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,3,Moderate,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,3,Loyal,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,3,Ambitious,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,3,Broad-Minded,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,3,Humble,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,3,Daring,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,3,Protecting the Environment,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,3,Influential,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,3,Honoring of Parents and Elders,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,3,Choosing Own Goals,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,3,Healthy,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,3,Capable,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,3,Accepting my Portion in Life,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,3,Honest,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,3,Preserving my Public Image,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,3,Obedient,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,3,Intelligent,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,3,Helpful,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,3,Enjoying Life,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,3,Devout,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,3,Responsible,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,3,Curious,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,3,Forgiving,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,3,Successful,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,3,Clean,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,4,Equality,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,4,Inner Harmony,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,4,Social Power,4,4,True,groq:qwen/qwen3-32b
+United States,Politics,4,Pleasure,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,4,Freedom,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,4,A Spiritual Life,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,4,Sense of Belonging,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,4,Social Order,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,4,An Exciting Life,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,4,Meaning in Life,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,4,Politeness,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,4,Wealth,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,4,National Security,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,4,Self-Respect,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,4,Reciprocation of Favors,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,4,Creativity,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,4,A World at Peace,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,4,Respect for Tradition,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,4,Mature Love,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,4,Self-Discipline,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,4,Detachment,4,4,True,groq:qwen/qwen3-32b
+United States,Politics,4,Family Security,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,4,Social Recognition,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,4,Unity With Nature,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,4,A Varied Life,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,4,Wisdom,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,4,Authority,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,4,True Friendship,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,4,A World of Beauty,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,4,Social Justice,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,4,Independent,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,4,Moderate,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,4,Loyal,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,4,Ambitious,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,4,Broad-Minded,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,4,Humble,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,4,Daring,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,4,Protecting the Environment,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,4,Influential,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,4,Honoring of Parents and Elders,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,4,Choosing Own Goals,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,4,Healthy,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,4,Capable,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,4,Accepting my Portion in Life,4,4,True,groq:qwen/qwen3-32b
+United States,Politics,4,Honest,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,4,Preserving my Public Image,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,4,Obedient,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,4,Intelligent,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,4,Helpful,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,4,Enjoying Life,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,4,Devout,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,4,Responsible,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,4,Curious,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,4,Forgiving,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,4,Successful,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,4,Clean,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,5,Equality,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,5,Inner Harmony,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,5,Social Power,4,4,True,groq:qwen/qwen3-32b
+United States,Politics,5,Pleasure,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,5,Freedom,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,5,A Spiritual Life,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,5,Sense of Belonging,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,5,Social Order,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,5,An Exciting Life,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,5,Meaning in Life,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,5,Politeness,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,5,Wealth,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,5,National Security,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,5,Self-Respect,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,5,Reciprocation of Favors,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,5,Creativity,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,5,A World at Peace,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,5,Respect for Tradition,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,5,Mature Love,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,5,Self-Discipline,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,5,Detachment,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,5,Family Security,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,5,Social Recognition,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,5,Unity With Nature,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,5,A Varied Life,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,5,Wisdom,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,5,Authority,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,5,True Friendship,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,5,A World of Beauty,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,5,Social Justice,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,5,Independent,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,5,Moderate,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,5,Loyal,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,5,Ambitious,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,5,Broad-Minded,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,5,Humble,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,5,Daring,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,5,Protecting the Environment,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,5,Influential,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,5,Honoring of Parents and Elders,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,5,Choosing Own Goals,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,5,Healthy,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,5,Capable,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,5,Accepting my Portion in Life,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,5,Honest,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,5,Preserving my Public Image,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,5,Obedient,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,5,Intelligent,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,5,Helpful,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,5,Enjoying Life,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,5,Devout,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,5,Responsible,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,5,Curious,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,5,Forgiving,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,5,Successful,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,5,Clean,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,6,Equality,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,6,Inner Harmony,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,6,Social Power,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,6,Pleasure,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,6,Freedom,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,6,A Spiritual Life,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,6,Sense of Belonging,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,6,Social Order,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,6,An Exciting Life,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,6,Meaning in Life,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,6,Politeness,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,6,Wealth,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,6,National Security,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,6,Self-Respect,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,6,Reciprocation of Favors,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,6,Creativity,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,6,A World at Peace,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,6,Respect for Tradition,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,6,Mature Love,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,6,Self-Discipline,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,6,Detachment,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,6,Family Security,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,6,Social Recognition,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,6,Unity With Nature,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,6,A Varied Life,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,6,Wisdom,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,6,Authority,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,6,True Friendship,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,6,A World of Beauty,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,6,Social Justice,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,6,Independent,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,6,Moderate,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,6,Loyal,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,6,Ambitious,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,6,Broad-Minded,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,6,Humble,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,6,Daring,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,6,Protecting the Environment,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,6,Influential,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,6,Honoring of Parents and Elders,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,6,Choosing Own Goals,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,6,Healthy,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,6,Capable,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,6,Accepting my Portion in Life,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,6,Honest,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,6,Preserving my Public Image,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,6,Obedient,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,6,Intelligent,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,6,Helpful,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,6,Enjoying Life,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,6,Devout,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,6,Responsible,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,6,Curious,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,6,Forgiving,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,6,Successful,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,6,Clean,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,7,Equality,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,7,Inner Harmony,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,7,Social Power,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,7,Pleasure,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,7,Freedom,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,7,A Spiritual Life,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,7,Sense of Belonging,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,7,Social Order,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,7,An Exciting Life,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,7,Meaning in Life,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,7,Politeness,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,7,Wealth,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,7,National Security,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,7,Self-Respect,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,7,Reciprocation of Favors,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,7,Creativity,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,7,A World at Peace,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,7,Respect for Tradition,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,7,Mature Love,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,7,Self-Discipline,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,7,Detachment,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,7,Family Security,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,7,Social Recognition,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,7,Unity With Nature,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,7,A Varied Life,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,7,Wisdom,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,7,Authority,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,7,True Friendship,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,7,A World of Beauty,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,7,Social Justice,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,7,Independent,1,1,True,groq:qwen/qwen3-32b
+United States,Politics,7,Moderate,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,7,Loyal,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,7,Ambitious,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,7,Broad-Minded,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,7,Humble,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,7,Daring,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,7,Protecting the Environment,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,7,Influential,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,7,Honoring of Parents and Elders,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,7,Choosing Own Goals,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,7,Healthy,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,7,Capable,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,7,Accepting my Portion in Life,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,7,Honest,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,7,Preserving my Public Image,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,7,Obedient,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,7,Intelligent,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,7,Helpful,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,7,Enjoying Life,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,7,Devout,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,7,Responsible,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,7,Curious,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,7,Forgiving,3,3,True,groq:qwen/qwen3-32b
+United States,Politics,7,Successful,2,2,True,groq:qwen/qwen3-32b
+United States,Politics,7,Clean,2,2,True,groq:qwen/qwen3-32b
